@@ -1,4 +1,3 @@
-![T.A.R.J.A.N.I.](images/bg.v1.jpg)
 # TARJANI - Demo
 ______
 This repository contains video demonstrations for all the features TARJANI has. It also has the Jupyter Notebook which was used during the demo to directly oprn in colab and run there.  
