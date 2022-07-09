@@ -1,8 +1,7 @@
 # TARJANI - Demo
 ______
 This repository contains video demonstrations for all the features TARJANI has. It also has the Jupyter Notebook which was used during the demo to directly oprn in colab and run there.  
-# Note:
-The original repository of [TARJANI](https://github.com/Rutvik-Trivedi/tarjani) and [model zoo](https://github.com/Rutvik-Trivedi/tarjani-model-zoo) has been made temporarily private for developers access only. Please stay tuned for a working version of TARJANI to be released.
+
 
 | Notebook Name | Action |
 | -------------- | -------- |
