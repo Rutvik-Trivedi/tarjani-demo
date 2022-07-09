@@ -4,6 +4,9 @@
 
 ![TARJANI Logo](images/bg.v1.jpg)
 
+# Note:
+Please note that the original repository of [TARJANI](https://github.com/Rutvik-Trivedi/tarjani) and [TARJANI Model Zoo](https://github.com/Rutvik-Trivedi/tarjani-model-zoo) used in the demonsteration has been made temporarily private for developer access only, for implementing better and bigger features. In case you want access to it, please contact [rutviknitpy@gmail.com](mailto:rutviknitpy@gmail.com) to request access.
+
 This repository contains video demonstrations for all the features TARJANI has. It also has the Jupyter Notebook which was used during the demo to directly oprn in colab and run there.
 
 | Notebook Name      | Action                                                                                                                                                                     |
